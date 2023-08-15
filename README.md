@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kevin, studies at Auckland University of Technology and living in Auckland, NZ. my objective is to be a full stack developer for website implementations :)
+My name is Kevin, Auckland University of Technology student living in Auckland, New Zealand. my objective is to be a full stack developer for website implementations :)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinandris)](https://github.com/anuraghazra/github-readme-stats)
 
