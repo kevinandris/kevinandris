@@ -1,17 +1,13 @@
 ### Hi there 👋
 
-My Name is Kevin from Auckland University of Technology living in Auckland, NZ. my objective is to be a full stack developer in website implementations :)
-<!--
-**kevinandris/kevinandris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Kevin from Auckland University of Technology living in Auckland, NZ. my objective is to be a full stack developer for website implementations :)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on MERN stack application called Real estate 
+- 🌱 I’m currently developing HTML, CSS and JavaScript using ReactJS.
+- 👯 I’m looking to collaborate on other software developers.
+- 🤔 I’m looking for help with skilled programming techniques :)
+- 💬 Ask me about my greateest achievements and passions.
+- 📫 How to reach me: kevinandris27@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I can't make an eye contact with a new person for longer than 5 secs ROFL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
