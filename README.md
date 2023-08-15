@@ -5,7 +5,7 @@ My name is Kevin, studies at Auckland University of Technology and living in Auc
 - 🔭 I’m currently working on MERN stack application called Real estate 
 - 🌱 I’m currently developing HTML, CSS and JavaScript using ReactJS.
 - 👯 I’m looking to collaborate on website implementations with other developers.
-- 🤔 I’m looking for help with skilled programming techniques :)
+- 🤔 I’m looking for help with how to be a skilled coder :)
 - 💬 Ask me about my greatest achievements and passions.
 - 📫 How to reach me: kevinandris27@gmail.com
 - 😄 Pronouns: He/him
