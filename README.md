@@ -1,5 +1,6 @@
 ### Hi there 👋
-Test
+
+My Name is Kevin from Auckland University of Technology living in Auckland, NZ. my objective is to be a full stack developer in website implementations :)
 <!--
 **kevinandris/kevinandris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
