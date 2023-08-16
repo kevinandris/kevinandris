@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Kevin, Auckland University of Technology student living in Auckland, New Zealand. My objective is to be a full stack developer for website implementations :))
 
