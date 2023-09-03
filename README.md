@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I am Kevin, Auckland University of Technology graduate living in Auckland, New Zealand. My objective is to be a full stack developer for website implementations :)
+I am Kevin, Auckland University of Technology graduate living in Auckland, New Zealand. My objective is to be a full stack developer for website implementations and now looking for an internship. :)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevinandris&theme=radical&hide_border=false)<br/>
