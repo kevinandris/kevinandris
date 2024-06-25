@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Glad seeing you on my Github page, I'm looking for an internship for full-stack website implementations.
+Glad seeing you on my Github page, I'm looking for an internship or graduate programme for full-stack website implementations.
 Feel free to check out my latest pinned projects below ^_^ 
 
 
