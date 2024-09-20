@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Glad seeing you on my Github page, I'm looking for an internship for fullstack, frontend, or backend role for website development.
+Glad seeing you on my Github page, I'm looking for an internship for fullstack, frontend, or backend role in website development.
 Feel free to check out my latest pinned projects below ^_^ 
 
 
